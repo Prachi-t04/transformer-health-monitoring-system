@@ -1,0 +1,6 @@
+File,Original rows,Rows with invalid timestamps,Rows involved in duplicate timestamps,Unique timestamps after aggregation,First timestamp,Last timestamp,
+CurrentVoltage.csv,19352,0,874,18915,25-06-2019 13:06,14-04-2020 00:30,
+Overview.csv,20316,0,1871,19376,25-06-2019 13:06,14-04-2020 00:30,
+Power.csv,19309,0,876,18871,25-06-2019 13:06,14-04-2020 00:30,
+PowerFactor.csv,19308,0,862,18877,25-06-2019 12:39,14-04-2020 00:30,
+TotalPower.csv,19248,0,812,18842,27-06-2019 10:51,14-04-2020 00:30,
